@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deriariyasa
 - 👀 I’m interested in web development, game development and 3d animation
-- 🌱 I’m currently learning web programming especially in front end development
+- 🌱 I’m currently learning web programming especially in front end development and UI UX
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me? Email: putuderi2@gmail.com
 
